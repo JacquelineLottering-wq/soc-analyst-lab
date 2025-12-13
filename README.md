@@ -37,11 +37,6 @@ This lab focuses on **blue team** detection and response activities.
 
 ---
 
-## 📁 Repository Structure
-
-
----
-
 ## 🚀 Project Status
 🟡 In Progress  
 This repository will be updated as investigations and detections are completed.
