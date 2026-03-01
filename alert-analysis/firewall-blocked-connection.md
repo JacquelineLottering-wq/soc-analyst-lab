@@ -1,4 +1,4 @@
-# Alert Investigation: Repeated Blocked External Connection Attempts
+## Alert Investigation: Repeated Blocked External Connection Attempts
 
 ## Alert Summary
 The firewall generated multiple alerts indicating repeated blocked outbound connection attempts from an internal workstation to a known malicious external IP address. The pattern suggests possible command-and-control (C2) communication or unauthorized external connectivity attempts.
